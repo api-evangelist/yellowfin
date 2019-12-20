@@ -1,0 +1,58 @@
+{
+    "name": "Yellowfin",
+    "description": "Find out how Yellowfin BI\u2019s integrated analytics platform takes you beyond data and dashboards with data transformation, creation of analytical apps, market leading collaboration tools and more. Try Yellowfin today to illuminate your data and discover ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1223-yellowfin.jpg",
+    "tags": [
+        "business intelligence",
+        "charts",
+        "dashboards",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yellowfin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Yellowfin",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1223-yellowfin.jpg",
+            "humanURL": "http:\/\/www.yellowfinbi.com\/YFWebsite-Embedded-Business-Intelligence-77979",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/yellowfin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.yellowfinbi.com\/YFWebsite-Embedded-Business-Intelligence-77979"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/yellowfin-bi"
+        },
+        {
+            "type": "Email",
+            "url": "support@yellowfin.bi"
+        },
+        {
+            "type": "Email",
+            "url": "info@yellowfin.bi"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@yellowfin.bi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/yellowfinbi"
+        }
+    ]
+}
